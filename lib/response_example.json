@@ -1,0 +1,55 @@
+{
+    "code":200,
+    "msg":"success",
+    "check":"c5a65b23d8fc58258defd3d5e9df1dc5606bc82c",
+    "timestamp":1679249416200,
+    "data":{
+        "config":{
+            "version":1,
+            "answeringMethod":"all"
+        },
+        "singleChoiceQuestions":{
+            "desc":"Single-choice questions, choose an option you think is correct, and the selected option is the same as the correct answer to score!",
+            "singleChoiceQuestionsList":[
+                {
+                    "id":1001,
+                    "auditors":"robot",
+                    "topic":"What kind of programming language is Dart?",
+                    "material":{
+                        "img":[
+                            "https://github.com/flutter/website/raw/main/src/assets/images/docs/homepage/dart-diagram-small.png?raw=true"
+                        ]
+                    },
+                    "options":[
+                        {
+                            "id":5087,
+                            "flag":"A. ",
+                            "info":"A procedure-oriented client-optimized programming language."
+                        },
+                        {
+                            "id":5090,
+                            "flag":"B. ",
+                            "info":"object-oriented client-optimized programming language."
+                        },
+                        {
+                            "id":5066,
+                            "flag":"C. ",
+                            "info":"Function-oriented client-optimized programming language."
+                        },
+                        {
+                            "id":5182,
+                            "flag":"D. ",
+                            "info":"Hardware-oriented client-optimized programming language."
+                        }
+                    ]
+                }
+            ]
+        },
+        "multipleChoice":null,
+        "judgeTopic":null,
+        "clozeFilling":null,
+        "simpleAnswer":null,
+        "questionAnswering":null,
+        "writingArticles":null
+    }
+}
